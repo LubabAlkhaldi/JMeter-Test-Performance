@@ -67,9 +67,9 @@ The following metrics are analyzed:
 
 ## 🎥 Demo Video
 
-A short demonstration showing the JMeter test execution and results:
+You can watch the test execution demo on LinkedIn:
 
-🔗 Add your video link here
+🔗 [Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/lubab-alkhaldi_softwaretesting-performancetesting-apachejmeter-ugcPost-7481766900075560960-BAxI)
 
 ## 🌐 Website Under Test
 
